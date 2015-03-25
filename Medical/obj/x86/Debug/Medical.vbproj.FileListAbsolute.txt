@@ -1,0 +1,60 @@
+C:\Users\necitas john\Documents\Necitas File\VBproject\Medical\Medical\obj\x86\Debug\Interop.MSACAL.dll
+C:\Users\necitas john\Documents\Necitas File\VBproject\Medical\Medical\obj\x86\Debug\AxInterop.MSACAL.dll
+C:\Users\necitas john\Documents\Necitas File\VBproject\Medical\Medical\obj\x86\Debug\Medical.vbproj.ResolveComReference.cache
+C:\Users\necitas john\Desktop\Medical\Medical\obj\x86\Debug\Interop.MSACAL.dll
+C:\Users\necitas john\Desktop\Medical\Medical\obj\x86\Debug\AxInterop.MSACAL.dll
+C:\Users\necitas john\Desktop\Medical\Medical\obj\x86\Debug\Medical.vbproj.ResolveComReference.cache
+E:\Medical\Medical\obj\x86\Debug\Medical.vbproj.ResolveComReference.cache
+E:\Medical\Medical\bin\Debug\Medical.exe
+E:\Medical\Medical\bin\Debug\Medical.pdb
+E:\Medical\Medical\bin\Debug\Medical.xml
+E:\Medical\Medical\obj\x86\Debug\WindowsApplication1.Add_patient.resources
+E:\Medical\Medical\obj\x86\Debug\WindowsApplication1.Add_patient2.resources
+E:\Medical\Medical\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Medical\Medical\obj\x86\Debug\WindowsApplication1.LoginForm1.resources
+E:\Medical\Medical\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Medical\Medical\obj\x86\Debug\Medical.vbproj.GenerateResource.Cache
+E:\Medical\Medical\obj\x86\Debug\Medical.exe
+E:\Medical\Medical\obj\x86\Debug\Medical.xml
+E:\Medical\Medical\obj\x86\Debug\Medical.pdb
+F:\Medical\Medical\obj\x86\Debug\Medical.vbproj.ResolveComReference.cache
+F:\Medical\Medical\obj\x86\Debug\Medical.exe
+F:\Medical\Medical\obj\x86\Debug\Medical.xml
+F:\Medical\Medical\obj\x86\Debug\Medical.pdb
+C:\Users\Admin\Desktop\Medical\Medical\obj\x86\Debug\Medical.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Medical\Medical\obj\x86\Debug\Medical.exe
+C:\Users\Admin\Desktop\Medical\Medical\obj\x86\Debug\Medical.xml
+C:\Users\Admin\Desktop\Medical\Medical\obj\x86\Debug\Medical.pdb
+C:\Users\Admin\Desktop\Medical\Medical\bin\Debug\Medical.exe
+C:\Users\Admin\Desktop\Medical\Medical\bin\Debug\Medical.pdb
+C:\Users\Admin\Desktop\Medical\Medical\bin\Debug\Medical.xml
+C:\Users\Admin\Desktop\Medical\Medical\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Medical\Medical\obj\x86\Debug\WindowsApplication1.Add_patient.resources
+C:\Users\Admin\Desktop\Medical\Medical\obj\x86\Debug\WindowsApplication1.Add_patient2.resources
+C:\Users\Admin\Desktop\Medical\Medical\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Admin\Desktop\Medical\Medical\obj\x86\Debug\WindowsApplication1.LoginForm1.resources
+C:\Users\Admin\Desktop\Medical\Medical\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Desktop\Medical\Medical\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\Medical\Medical\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\Medical\Medical\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Admin\Desktop\VB\Medical\Medical\obj\x86\Debug\Medical.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\VB\Medical\Medical\obj\x86\Debug\Medical.exe
+C:\Users\Admin\Desktop\VB\Medical\Medical\obj\x86\Debug\Medical.xml
+C:\Users\Admin\Desktop\VB\Medical\Medical\obj\x86\Debug\Medical.pdb
+C:\Users\Admin\Desktop\VB\Medical\Medical\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\VB\Medical\Medical\obj\x86\Debug\WindowsApplication1.Add_patient.resources
+C:\Users\Admin\Desktop\VB\Medical\Medical\obj\x86\Debug\WindowsApplication1.Add_patient2.resources
+C:\Users\Admin\Desktop\VB\Medical\Medical\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Admin\Desktop\VB\Medical\Medical\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Admin\Desktop\VB\Medical\Medical\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Admin\Desktop\VB\Medical\Medical\obj\x86\Debug\WindowsApplication1.LoginForm1.resources
+C:\Users\Admin\Desktop\VB\Medical\Medical\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Desktop\VB\Medical\Medical\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\VB\Medical\Medical\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\VB\Medical\Medical\bin\Debug\Medical.exe
+C:\Users\Admin\Desktop\VB\Medical\Medical\bin\Debug\Medical.pdb
+C:\Users\Admin\Desktop\VB\Medical\Medical\bin\Debug\Medical.xml
+C:\Users\necitas john\Desktop\Visual Basic\Medical\Medical\obj\x86\Debug\Medical.vbproj.ResolveComReference.cache
+C:\Users\necitas john\Desktop\Visual Basic\Medical\Medical\obj\x86\Debug\Medical.exe
+C:\Users\necitas john\Desktop\Visual Basic\Medical\Medical\obj\x86\Debug\Medical.xml
+C:\Users\necitas john\Desktop\Visual Basic\Medical\Medical\obj\x86\Debug\Medical.pdb
